@@ -2,6 +2,8 @@
 
 The outcome of watching Emberscreencasts' [making-ember-cli-addons](https://www.emberscreencasts.com/tags/making-ember-cli-addons) series.
 
+Add acceptance test: `ember g acceptance-test blink-tag`
+
 ## Installation
 
 * `git clone` this repository
