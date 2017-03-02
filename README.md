@@ -1,6 +1,6 @@
 # Blink-tag
 
-This README outlines the details of collaborating on this Ember addon.
+The outcome of watching Emberscreencasts' [making-ember-cli-addons](https://www.emberscreencasts.com/tags/making-ember-cli-addons) series.
 
 ## Installation
 
